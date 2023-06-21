@@ -19,6 +19,7 @@ git clone <repo_url>
 ```
 then move on to installing the various dependencies
 ```
+cd ETTA/
 pip install -r requirements.txt
 ```
 ## Starting
