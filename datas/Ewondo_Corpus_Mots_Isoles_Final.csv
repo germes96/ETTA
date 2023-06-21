@@ -1,0 +1,301 @@
+001,yób,Ciel
+002,sí,Terre
+003,oswé,Riviere
+004,ǹkúd,Nuage
+005,ǹló dzóbo,Soleil
+006,ngɔn,Lune
+007,otitie,Etoile
+008,elɔbí,Marécage
+009,ǹkol,Montagne
+010,elɔ́g,Herbe
+011,afan,Foret
+012,elé,Arbre
+013,tín,Tige
+014,kyé,Feuille
+015,ǹkaŋ,Racine
+016,ebǎb,Ecorce
+017,odzoe,Bananier
+018,andɔ́g,Manguier
+019,elé fía,Avocatier
+020,odzoe,Banane
+021,ndɔ́g,Mangue
+022,fía,Avocat
+023,zəg,Ananas
+024,pazətɛ́g,Pasteque
+025,ofumbí,Orange
+026,ósanga,Citron
+027,sá,Prune
+028,fón,Maïs
+029,m̀bong,Manioc
+030,shú,Choux
+031,abɔg,Melon
+032,abuda,Patate
+033,akaba,Macabo
+034,andum,Citronnelle
+035,kwé,Singe
+036,ngii,gorille
+037,edu,Rat
+038,kɛ́,Pangolin
+039,bə̌ba,grenouille
+040,só,biche
+041,só,gazelle
+042,kúb,Coq
+043,ngoe,Porc
+044,kábad,chevre
+045,emgbə́m,Lion
+046,zə̌,Panthere
+047,nyɔ́,Serpent
+048,táiga,Tigre
+049,onɔ̌n,Oiseau
+050,mvú,Chien
+051,esínga,Chat
+052,ǹkoŋ,Chenille
+053,kɔ̌s,Poison
+054,ongɔ̌s,Crevette
+055,mvəŋ,Pluie
+056,vyǎn,Lumiere (du soleil)
+057,evúndi,Vent
+058,ńkulu,Tornade
+059,avə́b,Froid
+060,ndóan,Feu
+061,zə̌yaŋ,Foudre
+062,ndúgúdu,Chaleur
+063,ǹkúd,Brume
+064,fám,Homme
+065,miningá,Femme
+066,mɔ́ngɔ́,Enfant
+067,ndóm/mǎnyǎŋ,Frere
+068,kál/mǎnyǎŋ,Soeur
+069,naná,Maman
+070,tadá,Papa
+071,emvám fám,Grand-mere
+072,emvám miningá,Grand-pere
+073,tadá,Ancetre
+074,mvóé,Ami
+075,ndâ bod,Famille
+076,mɔ̂n fám,Fils
+077,ngɔn,Fille
+078,mvog,Clan
+079,ayɔŋ,Tribu
+080,ǹkyǎ miningá,Belle mere
+081,m̀bɔ́m,Belle fille
+082,ǹnóm ngɔn,Beau fils
+083,ǹnyala,Beau frere
+084,ǹkyǎ fám,Beau pere
+085,bəkyǎ,Belle famille
+086,ésyá/ndóm dzaŋ,Oncle
+087,ésángá/ nyǎ,Tante
+088,man kál,Neveu
+089,ngɔn,Niece
+090,avúman,Parenté
+091,abum,Grossesse
+092,mɔ́n,Bebe
+093,abyálí,Accouchement
+094,enyě mɔ́n,allaitement
+095,ǹkogolo,Travail(contraction ...)
+096,esǒg,Placenta
+097,ngɔb,Cordon onbinical
+098,ǹdzíndzie,Accouchee(celle qui vient d'accoucher)
+099,foa,Fertile
+100,ǹkokóm,Sterile
+101,eyɛ̌l,Impuissance
+102,awú,Mort
+103,ǹkús fám,Veuf
+104,ǹkús miningá,Veuve
+105,akús,Veuvage
+106,mǎn nyuí,Orphelin
+107,bidí bí awú,Funerail
+108,sɔŋ,Tombe
+109,ezímbí,Cerceuil
+110,fíba,Fievre
+111,ekɔɛ,Grippe
+112,ebúbuga,Fracture
+113,mintyé,Douleur
+114,miǹtsaŋ mí yógo,L'erytheme fessier(rouge fesse)
+115,okpám,Varicelle
+116,ekɔ́a,Toux
+117,ǹgəngáŋ,Guerisseur
+118,akúd,Folie
+119,məbada,Gale
+120,tsîd məkǐ,Paludisme
+121,evóli,Tuberculose
+122,mətín,Elephantiasis
+123,ndɔ́g,Surdite
+124,mvúg,Mutisme
+125,bəsómólo,Coliques
+126,ńtúi,Diarhee
+127,akǎŋ,Rhumatisme
+128,kɔ̌s,Poison
+129,ndâ,Maison
+130,etǔn ndā,Chambre
+131,abá,Salon
+132,kásin,Cuisine
+133,edúg,Toillette
+134,ǹsəŋ,cour
+135,ǹdil məbaala,Tour-de-garde
+136,m̀bɛ́ sí,Verenda
+137,m̀fim,Mur
+138,ǹdil,Toit
+139,ongóla,Barriere
+140,dí,Manger
+141,nyú,Boire
+142,wɔ́bɔ,Se laver
+143,diŋ,Aimer
+144,náŋ,Grandir
+145,dzɔ́g,Nager
+146,som,Chasser
+147,bɛ,Cultiver
+148,komozan,Se preparer
+149,bɛ,Semer
+150,búg/tyé,Recolter
+151,syé,Travailler
+152,voe,Jouer
+153,dzoás,Discuter
+154,yídan,Bagarrer
+155,wulu,Marcher
+156,tyé m̀bíl,Courir
+157,díb,Voler
+158,tsaman,Separer
+159,yén,Voir
+160,wóg,Entendre
+161,namba,Toucher
+162,bími,Frapper
+163,dudan,Ramper
+164,ya,chanter
+165,kúlan,Apparaitre
+166,sal,Fendre
+167,dúgan,Rendre
+168,nɔŋ,Prendre
+169,və́,Donner
+170,kab,Partager
+171,dzə́ŋ,Chercher
+172,sɔm,Trouver
+173,fas,Reflechir
+174,búni,Croire
+175,nyiŋ,Vivre
+176,yón,Pleurer
+177,dzə́m,Danser
+178,dzoge,Laisser
+179,kɔ́bɔ,Parler
+180,yi,Vouloir
+181,bɔ,Faire
+182,tɔbɔ,S’asssoir
+183,kogolan,Prier
+184,woe,Rire
+185,bág,Ajouter
+186,kus,Acheter
+187,koan,Vendre
+188,tsénde,Changer
+189,kúí,Sortir
+190,yòmbo,Vieillir
+191,kud,Cogner
+192,dzoge,Laisser
+193,kə,Partir
+194,kə óyɔ́,Dormir
+195,kilan,Tourner
+196,ndəŋ óyɔ́,Somnoler
+197,ndáman,Gater
+198,yaan,S'irriter
+199,wé,Tuer
+200,byé,Accoucher
+201,tsindi,Attacher
+202,yám,Cuisiner
+203,tɛ,Insulter
+204,vógolo,Ecouter
+205,tɔ́g,Petit
+206,anén,Grand
+207,fɛ,Machette
+208,ebag,Houe
+209,okəŋ,Couteau
+210,esɔ́á,Assiette
+211,efɔá ndúan,Foyer (feu de cuisine)
+212,mvié,Marmite
+213,ǹtsɔ́bí,Mortier
+214,ǹtúm,Pilon
+215,ḿba tógo,Louche
+216,tə̄bə̄lə,Table
+217,etɔa,Chaise
+218,enɔŋ,Lit
+219,ndə́g,Calebasse
+220,tóg,Cuillere
+221,elúm,Fourchette
+222,etaŋan,Etagere
+223,ngál,Fusil
+224,akɔ̌ŋ,Fleche
+225,m̀fan,Crochet
+226,mvunda,Filet
+227,ǹkóg,Canne
+228,dzǎd,Panier
+229,ǹkóé,Hotte
+230,etaŋana,Claie
+231,m̀fan,Arc
+232,m̀bɛ,Cultivateur
+233,ǹsome,Chasseur
+234,ǹnɔ̂n biyə́m,Eleveur
+235,ǹgəngáŋ,Guerisseur
+236,mod bitá,Guerrier
+237,m̀bɔ bisyé,Serviteur
+238,mɔ́ngɔ̂ sikúlu,Eleve
+239,kaíza,Roi
+240,miningá kaíza,Reine
+241,ngɔn kaíza,Princesse
+242,ndómán kaíza,Prince
+243,ǹkúkūmá,Chef
+244,mintag,Joie
+245,wǎŋ,Peur
+246,olún,Colere
+247,ediŋ,Amour
+248,zíŋ,Haine
+249,okálá,Mefiance
+250,abán,Jalousie
+251,engɔ̌ngɔ̄l,Tristesse
+252,ǹkámáŋ,Surprise
+253,mvɔɛ́,Paix
+254,ǹló,Tête
+255,dís,oeil
+256,alɔ́,oreille
+257,anyu,bouche
+258,dzóé,nez
+259,ekǒb,peau
+260,wɔ́,main
+261,akǒl,pied
+262,abum,ventre
+263,mvús,dos
+264,akan,fesse
+265,abɛ́,sein
+266,onyǔ,doigt
+267,ekúdəbɔ́ŋ,coude
+268,abɔ́ŋ,genoux
+269,asǒŋ,dent
+270,oyə́m,langue
+271,abɛ,cuisse
+272,boá,cerveau
+273,ǹnə́m,coeur
+274,ekob,peau
+275,esǐl,cheveux
+276,eyé ānyǔ,Levre
+277,etúl,épaule
+278,kíŋ,cou
+279,mvɔlo,cheville
+280,m̀byán,Mollet
+281,esə́g,Foie
+282,mimbaŋ mi otam,Rein
+283,odug,Bassin
+284,abɔ́ŋ,Jambe
+285,ǹkug,Poitrine
+286,engɔŋ,Gorge
+287,zěl,Barbe
+288,asú,Front
+289,ǹsɔ́d,Penis
+290,eye koa,Paupiere
+291,dɔ́l,Nuque
+292,eláŋ,Anus
+293,dɔ́b,Nombril
+294,wɔ́,Bras
+295,abin,Testicule
+296,osaŋ,Estomac
+297,ǹyia,Intestin
+298,ebóŋ,Vagin
+299,m̀bóg dzóé,Narine
+300,dziyé,Ongle
+301,mvaŋ,Aiselle

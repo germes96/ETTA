@@ -1,0 +1,80 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "title": "Ewondo Transcription Transform API (ETTA)",
+      "description": "This mini-server transforms Ewondo transcriptions into their syllabic, alphabetic and tonal components.",
+      "version": "1.0"
+    },
+    "basePath": "/",
+    "schemes": [
+      "http"
+    ],
+    "consumes": [
+      "application/json"
+    ],
+    "produces": [
+      "application/json"
+    ],
+    "paths": {
+      "/syll-word/{word}/": {
+        "get": {
+          "summary": "Transfrom word",
+          "parameters": [
+            {
+              "name": "word",
+              "in": "path",
+              "description": "word in Ewondo to transform",
+              "required": true,
+              "type": "string"
+            }
+          ],
+          "produces": [
+            "application/json"
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response.",
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "message": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/syll-sent/{sentence}/": {
+        "get": {
+          "summary": "Transfrom sentence",
+          "parameters": [
+            {
+              "name": "sentence",
+              "in": "path",
+              "description": "sentence in Ewondo to transform",
+              "required": true,
+              "type": "string"
+            }
+          ],
+          "produces": [
+            "application/json"
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response.",
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "message": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }

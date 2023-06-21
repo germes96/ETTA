@@ -1,0 +1,318 @@
+ID,EWONDO,FRENCH,CATEGORY
+1,yób,Ciel,Nature
+2,sí,Terre,Nature
+3,oswé,Riviere,Nature
+4,ǹkúd,Nuage,Nature
+5,ǹló dzóbo,Soleil,Nature
+6,ngɔn,Lune,Nature
+7,otitie,Etoile,Nature
+8,elɔbí,Marécage,Nature
+9,ǹkol,Montagne,Nature
+10,elɔ́g,Herbe,Nature
+11,afan,Foret,Nature
+12,elé,Arbre,Nature
+13,tín,Tige,Nature
+14,kyé́,Feuille,Nature
+15,ǹkaŋ,Racine,Nature
+16,ebǎb,Ecorce,Nature
+17,odzoe,Bananier,Nature
+18,andɔ́g,Manguier,Nature
+19,elé fía,Avocatier,Nature
+20,odzoe,Banane,Nature
+21,ndɔ́g,Mangue,Nature
+22,fía,Avocat,Nature
+23,zəg,Ananas,Nature
+24,pazətɛ́g,Pasteque,Nature
+25,ofumbí,Orange,Nature
+26,ósanga,Citron,Nature
+27,sá,Prune,Nature
+28,fón,Maïs,Nature
+29,m̀bong,Manioc,Nature
+30,shú,Choux,Nature
+31,abɔg,Melon,Nature
+32,abuda,Patate,Nature
+33,akaba,Macabo,Nature
+34,andum,Citronnelle,Nature
+35,kwé,Singe,Animaux
+36,ngii,gorille,Animaux
+37,edu,Rat,Animaux
+38,kɛ́,Pangolin,Animaux
+39,bə̌ba,grenouille,Animaux
+40,só,biche,Animaux
+41,só,gazelle,Animaux
+42,kúb,Coq,Animaux
+43,ngoe,Porc,Animaux
+44,kábad,chevre,Animaux
+45,emgbə́m,Lion,Animaux
+46,zə̌,Panthere,Animaux
+47,nyɔ́,Serpent,Animaux
+48,táiga,Tigre,Animaux
+49,onɔ̌n,Oiseau,Animaux
+50,mvú,Chien,Animaux
+51,esínga,Chat,Animaux
+52,ǹkoŋ,Chenille,Animaux
+53,kɔ̌s,Poison,Animaux
+54,ongɔ̌s,Crevette,Animaux
+55,mvəŋ,Pluie,Phénomènes Naturels
+56,vyǎn,Lumiere (du soleil),Phénomènes Naturels
+57,evúndi,Vent,Phénomènes Naturels
+58,ńkulu,Tornade,Phénomènes Naturels
+59,avə́b,Froid,Phénomènes Naturels
+60,ndóan,Feu,Phénomènes Naturels
+61,zə̌yaŋ,Foudre,Phénomènes Naturels
+62,ndúgúdu,Chaleur,Phénomènes Naturels
+63,ǹkúd,Brume,Phénomènes Naturels
+64,fám,Homme,Famille
+65,miningá,Femme,Famille
+66,mɔ́ngɔ́,Enfant,Famille
+67,ndóm,Frere,Famille
+68,mǎnyǎŋ,Frere,Famille
+69,kál,Soeur,Famille
+70,mǎnyǎŋ,Soeur,Famille
+71,naná,Maman,Famille
+72,tadá,Papa,Famille
+73,emvám fám,Grand-mere,Famille
+74,emvám miningá,Grand-pere,Famille
+75,tadá,Ancetre,Famille
+76,mvóé,Ami,Famille
+77,ndâ bod,Famille,Famille
+78,mɔ̂n fám,Fils,Famille
+79,ngɔn,Fille,Famille
+80,mvog,Clan,Famille
+81,ayɔŋ,Tribu,Famille
+82,ǹkyǎ miningá,Belle mere,Famille
+83,m̀bɔ́m,Belle fille,Famille
+84,ǹnóm ngɔn,Beau fils,Famille
+85,ǹnyala,Beau frere,Famille
+86,ǹkyǎ fám,Beau pere,Famille
+87,bəkyǎ,Belle famille,Famille
+88,ésyá,Oncle,Famille
+89,ndóm dzaŋ,Oncle,Famille
+90,ésángá,Tante,Famille
+91,nyǎ,Tante,Famille
+92,man kál,Neveu,Famille
+93,ngɔn,Niece,Famille
+94,avúman,Parenté,Famille
+95,abum,Grossesse,Natalité et Mortalité
+96,mɔ́n,Bebe,Natalité et Mortalité
+97,abyálí,Accouchement,Natalité et Mortalité
+98,enyě mɔ́n,allaitement,Natalité et Mortalité
+99,ǹkogolo,Travail(contraction ...),Natalité et Mortalité
+100,esǒg,Placenta,Natalité et Mortalité
+101,ngɔb,Cordon onbinical,Natalité et Mortalité
+102,ǹdzíndzie,Accouchee(celle qui vient d'accoucher),Natalité et Mortalité
+103,foa,Fertile,Natalité et Mortalité
+104,ǹkokóm,Sterile,Natalité et Mortalité
+105,eyɛ̌l,Impuissance,Natalité et Mortalité
+106,awú,Mort,Natalité et Mortalité
+107,ǹkús fám,Veuf,Natalité et Mortalité
+108,ǹkús miningá,Veuve,Natalité et Mortalité
+109,akús,Veuvage,Natalité et Mortalité
+110,mǎn nyuí,Orphelin,Natalité et Mortalité
+111,bidí bí awú,Funerail,Natalité et Mortalité
+112,sɔŋ,Tombe,Natalité et Mortalité
+113,ezímbí,Cerceuil,Natalité et Mortalité
+114,fíba,Fievre,Maladies
+115,ekɔɛ,Grippe,Maladies
+116,ebúbuga,Fracture,Maladies
+117,mintyé,Douleur,Maladies
+118,miǹtsaŋ mí yógo,L'erytheme fessier(rouge fesse),Maladies
+119,okpám,Varicelle,Maladies
+120,ekɔ́a,Toux,Maladies
+121,ǹgəngáŋ,Guerisseur,Maladies
+122,akúd,Folie,Maladies
+123,məbada,Gale,Maladies
+124,tsîd məkǐ,Paludisme,Maladies
+125,evóli,Tuberculose,Maladies
+126,mətín,Elephantiasis,Maladies
+127,ndɔ́g,Surdite,Maladies
+128,mvúg,Mutisme,Maladies
+129,bəsómólo,Coliques,Maladies
+130,ńtúi,Diarhee,Maladies
+131,akǎŋ,Rhumatisme,Maladies
+132,kɔ̌s,Poison,Maladies
+133,ndâ,Maison,Architecture
+134,etǔn ndā,Chambre,Architecture
+135,abá,Salon,Architecture
+136,kásin,Cuisine,Architecture
+137,edúg,Toillette,Architecture
+138,ǹsəŋ,cour,Architecture
+139,ǹdil məbaala,Tour-de-garde,Architecture
+140,m̀bɛ́ sí,Verenda,Architecture
+141,m̀fim,Mur,Architecture
+142,ǹdil,Toit,Architecture
+143,ongóla,Barriere,Architecture
+144,dí,Manger,Verbes
+145,nyú,Boire,Verbes
+146,wɔ́bɔ,Se laver,Verbes
+147,diŋ,Aimer,Verbes
+148,náŋ,Grandir,Verbes
+149,dzɔ́g,Nager,Verbes
+150,som,Chasser,Verbes
+151,bɛ,Cultiver,Verbes
+152,komozan,Se preparer,Verbes
+153,bɛ,Semer,Verbes
+154,búg,Recolter,Verbes
+155,tyé,Recolter,Verbes
+156,syé,Travailler,Verbes
+157,voe,Jouer,Verbes
+158,dzoás,Discuter,Verbes
+159,yídan,Bagarrer,Verbes
+160,wulu,Marcher,Verbes
+161,tyé m̀bíl,Courir,Verbes
+162,díb,Voler,Verbes
+163,tsaman,Separer,Verbes
+164,yén,Voir,Verbes
+165,wóg,Entendre,Verbes
+166,namba,Toucher,Verbes
+167,bími,Frapper,Verbes
+168,dudan,Ramper,Verbes
+169,ya,chanter,Verbes
+170,kúlan,Apparaitre,Verbes
+171,sal,Fendre,Verbes
+172,dúgan,Rendre,Verbes
+173,nɔŋ,Prendre,Verbes
+174,və́,Donner,Verbes
+175,kab,Partager,Verbes
+176,dzə́ŋ,Chercher,Verbes
+177,sɔm,Trouver,Verbes
+178,fas,Reflechir,Verbes
+179,búni,Croire,Verbes
+180,nyiŋ,Vivre,Verbes
+181,yón,Pleurer,Verbes
+182,dzə́m,Danser,Verbes
+183,dzoge,Laisser,Verbes
+184,kɔ́bɔ,Parler,Verbes
+185,yi,Vouloir,Verbes
+186,bɔ,Faire,Verbes
+187,tɔbɔ,S’asssoir,Verbes
+188,kogolan,Prier,Verbes
+189,woe,Rire,Verbes
+190,bág,Ajouter,Verbes
+191,kus,Acheter,Verbes
+192,koan,Vendre,Verbes
+193,tsénde,Changer,Verbes
+194,kúí,Sortir,Verbes
+195,yòmbo,Vieillir,Verbes
+196,kud,Cogner,Verbes
+197,dzoge,Laisser,Verbes
+198,kə,Partir,Verbes
+199,kə óyɔ́,Dormir,Verbes
+200,kilan,Tourner,Verbes
+201,ndəŋ óyɔ́,Somnoler,Verbes
+202,ndáman,Gater,Verbes
+203,yaan,S'irriter,Verbes
+204,wé,Tuer,Verbes
+205,byé,Accoucher,Verbes
+206,tsindi,Attacher,Verbes
+207,yám,Cuisiner,Verbes
+208,tɛ,Insulter,Verbes
+209,vógolo,Ecouter,Verbes
+210,tɔ́g,Petit,Adjectifs
+211,anén,Grand,Adjectifs
+212,fɛ,Machette,Outils et Ustensiles et Meubles
+213,ebag,Houe,Outils et Ustensiles et Meubles
+214,okəŋ,Couteau,Outils et Ustensiles et Meubles
+215,esɔ́á,Assiette,Outils et Ustensiles et Meubles
+216,efɔá ndúan,Foyer (feu de cuisine),Outils et Ustensiles et Meubles
+217,mvié,Marmite,Outils et Ustensiles et Meubles
+218,ǹtsɔ́bí,Mortier,Outils et Ustensiles et Meubles
+219,ǹtúm,Pilon,Outils et Ustensiles et Meubles
+220,ḿba tógo,Louche,Outils et Ustensiles et Meubles
+221,tə̄bə̄lə,Table,Outils et Ustensiles et Meubles
+222,etɔa,Chaise,Outils et Ustensiles et Meubles
+223,enɔŋ,Lit,Outils et Ustensiles et Meubles
+224,ndə́g,Calebasse,Outils et Ustensiles et Meubles
+225,tóg,Cuillere,Outils et Ustensiles et Meubles
+226,elúm,Fourchette,Outils et Ustensiles et Meubles
+227,etaŋan,Etagere,Outils et Ustensiles et Meubles
+228,ngál,Fusil,Outils et Ustensiles et Meubles
+229,akɔ̌ŋ,Fleche,Outils et Ustensiles et Meubles
+230,m̀fan,Crochet,Outils et Ustensiles et Meubles
+231,mvunda,Filet,Outils et Ustensiles et Meubles
+232,ǹkóg,Canne,Outils et Ustensiles et Meubles
+233,dzǎd,Panier,Outils et Ustensiles et Meubles
+234,ǹkóé,Hotte,Outils et Ustensiles et Meubles
+235,etaŋana,Claie,Outils et Ustensiles et Meubles
+236,m̀fan,Arc,Outils et Ustensiles et Meubles
+237,m̀bɛɛ,Cultivateur,Professions et Titres
+238,ǹsomo,Chasseur,Professions et Titres
+239,ǹnɔ̂n biyə́m,Eleveur,Professions et Titres
+240,ǹgəngáŋ,Guerisseur,Professions et Titres
+241,mod bitá,Guerrier,Professions et Titres
+242,m̀bɔ bisyé,Serviteur,Professions et Titres
+243,mɔ́ngɔ̂ sikúlu,Eleve,Professions et Titres
+244,kaíza,Roi,Professions et Titres
+245,miningá kaíza,Reine,Professions et Titres
+246,ngɔn kaíza,Princesse,Professions et Titres
+247,ndómán kaíza,Prince,Professions et Titres
+248,ǹkúkūmá,Chef,Professions et Titres
+249,m̀bɛɛ,Cultivateur,Sentiments et emotions
+250,ǹsomo,Chasseur,Sentiments et emotions
+251,ǹnɔ̂n biyə́m,Eleveur,Sentiments et emotions
+252,ǹgəngáŋ,Guerisseur,Sentiments et emotions
+253,mod bitá,Guerrier,Sentiments et emotions
+254,m̀bɔ bisyé,Serviteur,Sentiments et emotions
+255,mɔ́ngɔ̂ sikúlu,Eleve,Sentiments et emotions
+256,kaíza,Roi,Sentiments et emotions
+257,miningá kaíza,Reine,Sentiments et emotions
+258,ngɔn kaíza,Princesse,Sentiments et emotions
+259,ndómán kaíza,Prince,Sentiments et emotions
+260,ǹkúkūmá,Chef,Sentiments et emotions
+261,mintag,Joie,Sentiments et emotions
+262,wǎŋ,Peur,Sentiments et emotions
+263,olún,Colere,Sentiments et emotions
+264,ediŋ,Amour,Sentiments et emotions
+265,zíŋ,Haine,Sentiments et emotions
+266,okálá,Mefiance,Sentiments et emotions
+267,abán,Jalousie,Sentiments et emotions
+268,engɔ̌ngɔ̄l,Tristesse,Sentiments et emotions
+269,mvɔɛ́,Paix,Sentiments et emotions
+270,ǹló,Tête,Anatomie
+271,dís,oeil,Anatomie
+272,alɔ́,oreille,Anatomie
+273,anyu,bouche,Anatomie
+274,dzóé,nez,Anatomie
+275,ekǒb,peau,Anatomie
+276,wɔ́,main,Anatomie
+277,akǒl,pied,Anatomie
+278,abum,ventre,Anatomie
+279,mvús,dos,Anatomie
+280,akan,fesse,Anatomie
+281,abɛ́,sein,Anatomie
+282,onyǔ,doigt,Anatomie
+283,ekúdəbɔ́ŋ,coude,Anatomie
+284,abɔ́ŋ,genoux,Anatomie
+285,asǒŋ,dent,Anatomie
+286,oyə́m,langue,Anatomie
+287,abɛ,cuisse,Anatomie
+288,boá,cerveau,Anatomie
+289,ǹnə́m,coeur,Anatomie
+290,ekob,peau,Anatomie
+291,esǐl,cheveux,Anatomie
+292,eyé,Levre,Anatomie
+293,etúl,épaule,Anatomie
+294,kíŋ,cou,Anatomie
+295,mvɔlo,cheville,Anatomie
+296,m̀byán,Mollet,Anatomie
+297,esə́g,Foie,Anatomie
+298,mimbaŋ mi otam,Rein,Anatomie
+299,odug,Bassin,Anatomie
+300,abɔ́ŋ,Jambe,Anatomie
+301,ǹkug,Poitrine,Anatomie
+302,engɔŋ,Gorge,Anatomie
+303,zěl,Barbe,Anatomie
+304,asú,Front,Anatomie
+305,ǹsɔ́d,Penis,Anatomie
+306,eye koa,Paupiere,Anatomie
+307,dɔ́l,Nuque,Anatomie
+308,eláŋ,Anus,Anatomie
+309,dɔ́b,Nombril,Anatomie
+310,wɔ́,Bras,Anatomie
+311,abin,Testicule,Anatomie
+312,osaŋ,Estomac,Anatomie
+313,ǹyia,Intestin,Anatomie
+314,ebóŋ,Vagin,Anatomie
+315,m̀bóg dzóé,Narine,Anatomie
+316,dziyé,Ongle,Anatomie
+317,mvaŋ,Aiselle,Anatomie
